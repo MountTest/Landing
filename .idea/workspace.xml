@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3213a89-b502-4ebf-88ee-fca27188d06b" name="Default Changelist" comment="" />
+    <list default="true" id="c3213a89-b502-4ebf-88ee-fca27188d06b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Arrow 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Arrow 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Group 63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Group 65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Group 66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Group 68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Group 71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Group 73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Kalmar-Home-7-pc-Acacia-Wood-Salad-Bowl-Set 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Rectangle 6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Rectangle 7 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Rectangle 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Rectangle 8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Slice 1 (12).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Slice 1 (14).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Slice 2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Star 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Vintage-Radio-PNG-Image 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/about-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg-about-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg-header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/budgeting.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/carpenter 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/chair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cost 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/fd2d95252c7fbc851e6dc7463e6b3284 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/footer_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/h2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/kissclipart-shelf-bookcase-png-clipart-bookshelf-bookcase-bcab65430cdd522a 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/logo_avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/production.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ruler 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ruler.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/shop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/stul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blocks/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blocks/categories.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blocks/how_it_works.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blocks/testimony.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/preloaer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +71,16 @@
     <execution>
       <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="071f79a9-4525-4a8f-af79-0cd78413905a" />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -102,9 +170,24 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1co1paX5jWPbxRKJ5p4S0mUeG64" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\test\public\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\test\public\img" />
+      <recent name="D:\OSPanel\domains\test\public\js" />
+      <recent name="D:\OSPanel\domains\test\resources\js" />
+      <recent name="D:\OSPanel\domains\test\public\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,11 +211,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591180315302</updated>
-      <workItem from="1591180708451" duration="424000" />
+      <workItem from="1591180708451" duration="5859000" />
+      <workItem from="1591591277144" duration="21917000" />
+      <workItem from="1591679653676" duration="15381000" />
+      <workItem from="1591764082668" duration="21407000" />
+      <workItem from="1591851477971" duration="3418000" />
+      <workItem from="1591936404349" duration="4652000" />
+      <workItem from="1592029283973" duration="1969000" />
+      <workItem from="1592112318133" duration="15437000" />
+      <workItem from="1592192390896" duration="19774000" />
+      <workItem from="1592281856592" duration="3427000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
